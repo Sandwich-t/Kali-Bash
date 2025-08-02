@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.png" alt="Kali Bash Logo" width="400">
+</p>
+
 # 🐚 Kali Bash — Terminal Personalizada en Node.js
 
 > Simula una consola de estilo Kali Linux desde Node.js 22+ con soporte para comandos personalizados, análisis de URLs y respuestas dinámicas.
@@ -36,6 +40,20 @@ Kali-Bash/
 
 ---
 
+## 📦 Para consumidores que usan verciones diferentes
+
+El desarollador no se hace cargo de algu tipo de virus
+que pueda traer la vercion, tu fuiste el que la instalo.
+si deseas provar una consola diferente puedes guiarte de esta guia que
+hise y revice con ayuda de **Chatgpt** y con ayuda de mi mismo
+te hacemos una lista de los mejores hasta su vercion!.
+
+---
+
+[Oficial](https://github.com/Sandwich-t/Kali-Bash)
+
+---
+
 ## 👋 Para los Desarolladores
 
 Son libres de modificar y hacer sus propias verciones
@@ -60,17 +78,5 @@ cd kali-bash
 npm install
 npm start
 
-## 📦 Para consumidores que usan verciones diferentes
 
-El desarollador no se hace cargo de algu tipo de virus
-que pueda traer la vercion, tu fuiste el que la instalo.
-si deseas provar una consola diferente puedes guiarte de esta guia que
-hise y revice con ayuda de **Chatgpt** y con ayuda de mi mismo
-te hacemos una lista de los mejores hasta su vercion!.
-
----
-
-[Oficial](https://github.com/Sandwich-t/Kali-Bash)
-
----
 
