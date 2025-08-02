@@ -1,0 +1,19 @@
+{
+  "name": "kali-bash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.2",
+    "gradient-string": "^3.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
